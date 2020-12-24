@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+import 'package:resto/models/drink.dart';
+import 'package:resto/models/food.dart';
+import 'package:resto/models/restaurant.dart';
+import 'package:resto/shared/shared.dart';
+import 'package:flutter_rating_bar/flutter_rating_bar.dart';
+import 'package:resto/pages/pages.dart';
+part 'min_restaurant_info.dart';
+part 'list_menu.dart';
+part 'restaurant_item.dart';
